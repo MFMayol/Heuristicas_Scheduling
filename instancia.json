@@ -1,0 +1,13 @@
+{
+    "parametros": {
+        "num_maquinas": 2
+    },
+    "tareas": [
+        {"id": "T1", "duracion": 4},
+        {"id": "T2", "duracion": 2},
+        {"id": "T3", "duracion": 7},
+        {"id": "T4", "duracion": 5},
+        {"id": "T5", "duracion": 1},
+        {"id": "T6", "duracion": 3}
+    ]
+}
